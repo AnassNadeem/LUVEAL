@@ -418,7 +418,7 @@
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.9) 100%
       ),
-      url('/images/Hoodies/H-12.webp');
+      url('images/Hoodies/H-12.webp');
   }
   
   .services__card h2 {
