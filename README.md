@@ -38,9 +38,8 @@ LUVEAL/
 │── hoodies.html          # Product category: Hoodies
 │── shirts.html           # Product category: Shirts
 │── sign-up.html          # Sign up page
-│── contact.html          # Contact page
 │── styles.css            # Global stylesheet
-│── images           # Images, icons, fonts
+│── images                # Images, icons, fonts
 │── README.md             # Project documentation
 ```
 
